@@ -52,7 +52,7 @@ class Program
         commands.SetHelpFormatter<HelpFormatter>();
 
         # if DEBUG
-            slash.RegisterCommands<GuildModule>(738958548146585646);
+            slash.RegisterCommands<GuildModule>(ulong.Parse(Environment.GetEnvironmentVariable("discord_tst_guild_id")!));
         # else
             await slash.RegisterCommands(Assembly.GetExecutingAssembly());
         #endif
