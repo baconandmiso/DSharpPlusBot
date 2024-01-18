@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DSharpFirstBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "bot_token": "OTgxOTE0MjM2MzI4NTAxMjU4.G5-ihd.Zi_o91_nCin6OKJaTUoYeiYYhrasBA_QV-qNRg"
+      }
+    }
+  }
+}
