@@ -6,8 +6,8 @@ DSharpPlus自体、扱うのが初めてなので（もしかしたら）仕様�
 システム環境変数に以下を追加。
 
 |変数名|値|
-|bot_token|DiscordBotのToken|
 |---------|-----------------|
+|bot_token|DiscordBotのToken|
 |discord_tst_guild_id|DiscordサーバーのID|   
 
 ### 機能
