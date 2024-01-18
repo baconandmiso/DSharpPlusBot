@@ -7,6 +7,7 @@ DSharpPlus自体、扱うのが初めてなので（もしかしたら）仕様�
 
 |変数名|値|
 |bot_token|DiscordBotのToken|
+|---------|-----------------|
 |discord_tst_guild_id|DiscordサーバーのID|   
 
 ### 機能
