@@ -5,9 +5,9 @@ DSharpPlus自体、扱うのが初めてなので（もしかしたら）仕様�
 ### 設定
 システム環境変数に以下を追加。
 
-bot_token : 値は、DiscordBotのToken
-
-discord_tst_guild_id　：　値は、DiscordサーバーのID
+|変数名|値|
+|bot_token|DiscordBotのToken|
+|discord_tst_guild_id|DiscordサーバーのID|   
 
 ### 機能
 - ユーザーの情報表示（埋め込みメッセージのページ形式)
